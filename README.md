@@ -1,5 +1,5 @@
 # 绘图
-blender gimp krita
+blender gimp gimpshop krita
 # markdown
 typora vim
 # office
