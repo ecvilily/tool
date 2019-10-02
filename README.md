@@ -1,13 +1,17 @@
+# 系统
+Ubuntu Centos Deepin cygwin
 # 绘图
-blender gimp gimpshop krita
+gimp gimpshop krita
+# 3D
+blender 
 # markdown
 typora vim
 # office
-Koffice libre office
+Koffice libre office 
 # 编程
 c c++ python
 ## 编译器
-clang GCC python3 python2
+clang GCC python3 
 ## 自动构建
 cmake make
 ## 文本查找
@@ -16,3 +20,5 @@ grep
 virtual box
 # 浏览器
 firefox
+# 网页下载
+wget
